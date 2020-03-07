@@ -89,7 +89,7 @@
 - [MICCAI2019参会笔记](https://github.com/RAY9874/MICCAI2019)
 - [CVPR论文模板](https://github.com/MCG-NKU/CVPR_Template)
 - [CVPR2020开源项目合集]( https://github.com/amusi/CVPR2020-Code )
-- [ICCV 2019 papers/new汇总帖](ICCV 2019 papers/new汇总帖)
+- [ICCV 2019 papers/new汇总帖](https://github.com/extreme-assistant/iccv2019)
 - [IJCAI'18论文医学跨模态域适应](https://github.com/carrenD/Medical-Cross-Modality-Domain-Adaptation)
 - [MICCAI2018中的深度学习论文学习](https://github.com/fendaq/aweson-deeplearn-MICCAI2018)
 - [MICCAI2019公开论文与源代码合集](https://github.com/JunMa11/MICCAI2019-OpenSourcePapers)
