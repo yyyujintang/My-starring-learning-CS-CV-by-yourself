@@ -1,36 +1,80 @@
-# My-starring-转行CS（CV方向）自学指南
+# My-starring-Computer-Vsion-Learner
 分类整理GitHub上我star过的项目
 
-最近一次更新时间：2020年3月7日
+最近一次更新时间：2021年7月12日
 
-# 计算机基础
+# 论文阅读
 
-- [计算机类常用电子书:Java，Python，Linux，Go，C，C++，数据结构与算法，人工智能，计算机基础，面试，设计模式，数据库，前端等](https://github.com/iamshuaidi/CS-Book)
-- [404 Not Found的知识库：计算机理论基础、计算机技术基础、底层研究、安全技术、安全研究、人工智能、企业安全建设、安全发展、职业规划、综合素质、国内外优秀技术人](https://github.com/404notf0und/Always-Learning)
-- [计算机基础（计算机网络/操作系统/数据库/Git...）面试问题全面总结，包含详细的follow-up question以及答案；全部采用【问题+追问+答案】的形式，即拿即用，直击互联网大厂面试🚀；可用于模拟面试、面试前复习、短期内快速备战面试](https://github.com/wolverinn/Waking-Up)
-- [互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/Google/Facebook/Amazon/eBay的架构](https://github.com/davideuler/architecture.of.internet-product)
-- [计算机基础大合集:为大学生准备的资源](https://github.com/dipakkr/A-to-Z-Resources-for-Students)
-- [各种编程学习资料 Android C C++ DataBase HTML5 JavaWeb ios python uml 人工智能 操作系统 数学 数据结构 程序员需要的技术 程序设计 编译原理 计算机组成与结构 计算机网络 设计模式 软件工程 面试经验](https://github.com/FangWW/Document)
-- [计算机自学方案](https://github.com/ossu/computer-science)
-- [成为软件工程师的计算机学习计划](https://github.com/jwasham/coding-interview-university)
-- [计算机电子书pdf整理](https://github.com/fuhmmin/it-ebooks-cn)
-- [计算机网络，数据结构，C++等学习笔记](https://github.com/arkingc/note)
+- [Paper with code](https://github.com/zziz/pwc)
+- [Medical Vision Paper List](https://github.com/shawnyuen/DeepLearningInMedicalImagingAndMedicalImageAnalysis)
+- [SemanticSegPaperCollection](https://github.com/shawnyuen/SemanticSegPaperCollection)
+- [ObjectDetectPaperCollection](https://github.com/shawnyuen/ObjectDetectPaperCollection)
+- [GANsPaperCollection](https://github.com/shawnyuen/GANsPaperCollection)
+- [Reading List for Topics in Multimodal Machine Learning](https://github.com/pliang279/awesome-multimodal-ml)
+- [UNet-family](https://github.com/ShawnBIT/UNet-family)
+- [survey-computer-vision计算机视觉综述论文分方向整理](https://github.com/extreme-assistant/survey-computer-vision)
 
-## C++
 
-- [C++学习笔记](https://github.com/havenow/my-C-plus-plus)
-- [C++ Primer 5th的课后习题答案](https://github.com/Mooophy/Cpp-Primer)
-- [C++ Primer 中文版第5版学习仓库，包括笔记和课后练习答案。](https://github.com/applenob/Cpp_Primer_Practice)
-
-## Python
-
-- [Python有趣的小例子一网打尽。Python基础、Python坑点、Python字符串和正则、Python绘图、Python日期和文件、Web开发、数据科学、机器学习、深度学习、TensorFlow、Pytorch，一切都是简单易懂的小例子。](https://github.com/jackzhenguo/python-small-examples)
-- [Python cheatsheet常用知识点代码整理](https://github.com/gto76/python-cheatsheet)
-- [从头开始 系统化的 学习如何写Python爬虫。 Python版本 3.6](https://github.com/Ehco1996/Python-crawler)
-
-# 医学图像分析
+# 医学图像分析数据集
 - [医学图像分析的神经网络工具箱 tf/keras实现](https://github.com/adalca/neuron)
 - [医学图像数据集整理](https://github.com/adalca/medical-datasets)
+- [medical-imaging-datasets](https://github.com/sfikas/medical-imaging-datasets)
+- [COVID-19 image data collection](https://github.com/ieee8023/covid-chestxray-dataset)
+- [Medical Data for Machine Learning](https://github.com/beamandrew/medical-data)
+
+
+# 医学图像分析代码库
+- [医学图像分析的神经网络工具箱 tf/keras实现](https://github.com/adalca/neuron)
+- [nnUNet](https://github.com/MIC-DKFZ/nnUNet)
+- [PyMIC: A Pytorch-Based Toolkit for Medical Image Computing](https://github.com/HiLab-git/PyMIC)
+- [NiftyNet: a TensorFlow-based open-source convolutional neural networks (CNN) platform for research in medical image analysis and image-guided therapy](https://github.com/NifTK/NiftyNet)
+- 脑动脉瘤相关[DLIA](https://github.com/deepwise-code/DLIA)[DLCA](https://github.com/CTA-detection/DLCA)[GLIA](https://github.com/MeteorsHub/GLIA-Net)[CTAI:基于深度学习的肿瘤辅助诊断系统](https://github.com/xming521/CTAI)
+- [medicaldetectiontoolkit: Medical Vision Object Detection(2D+3D)](https://github.com/MIC-DKFZ/medicaldetectiontoolkit)
+- [voxelmorph](https://github.com/voxelmorph/voxelmorph)
+- [Pytorch Medical Segmentation](https://github.com/MontaEllis/Pytorch-Medical-Segmentation)
+- [nnDetection:a self-configuring framework for 3D (volumetric) medical object detection which can be applied to new data sets without manual intervention](https://github.com/MIC-DKFZ/nnDetection)
+- [MONAILabel:AI赋能交互式分割](https://github.com/Project-MONAI/MONAILabel)
+
+
+# MICCAI,CVPR,ECCV,AAAI,ICCV等会议
+- [MICCAI2019参会笔记](https://github.com/RAY9874/MICCAI2019)
+- [CVPR论文模板](https://github.com/MCG-NKU/CVPR_Template)
+- [CVPR2020开源项目合集]( https://github.com/amusi/CVPR2020-Code )
+- [ICCV 2019 papers/new汇总帖](https://github.com/extreme-assistant/iccv2019)
+- [IJCAI'18论文医学跨模态域适应](https://github.com/carrenD/Medical-Cross-Modality-Domain-Adaptation)
+- [MICCAI2018中的深度学习论文学习](https://github.com/fendaq/aweson-deeplearn-MICCAI2018)
+- [MICCAI2019公开论文与源代码合集](https://github.com/JunMa11/MICCAI2019-OpenSourcePapers)
+
+
+# 计算机视觉
+- [Mask-RCNN在Paperdoll数据集上的Keras实现](https://github.com/cad0p/maskrcnn-modanet)
+- [弱监督语义/实例分割论文及代码整理](https://github.com/kevinlee9/Semantic-Segmentation)
+- [跨域适应学习用于语义分割论文实现](https://github.com/mkmenta/domain_adapt_segm)
+- [StyleGAN的PyTorch实现](https://github.com/jacobhallberg/pytorch_stylegan_encoder)
+- [跨模态行人重识别的PyTorch实现](https://github.com/mangye16/Cross-Modal-Re-ID-baseline)
+- [多模态研究论文及相关数据集](https://github.com/Eurus-Holmes/Awesome-Multimodal-Research)
+- [计算机视觉领域实验室、数据库、资源](https://github.com/Sophia-11/Awesome-CV-Resources)
+- [YOLO V3d PyTorch实现](https://github.com/eriklindernoren/PyTorch-YOLOv3)
+- [计算机视觉相关论文整理、记录、分享; 包括图像分类、目标检测、视觉跟踪/目标跟踪、人脸识别/人脸验证、OCR/场景文本检测及识别等领域](https://github.com/yizt/cv-papers)
+- [通过实际案例来学习计算机视觉。](https://github.com/finlay-liu/Learn-CV-The-Hard-Way)
+- [深度学习/计算机视觉工程向笔记](https://github.com/pascal1129/cv_notes)
+- [学习计算机视觉的道路上:Python代码](https://github.com/linyi0604/Computer-Vision)
+- [计算机视觉入门](https://github.com/gyy8426/Computer_Vision_primer)
+- [计算机视觉笔记和总结](https://github.com/AceCoooool/interview-computer-vision)
+- [船长关于机器学习、计算机视觉和工程技术的总结和分享](https://github.com/Captain1986/CaptainBlackboard)
+- [用于计算机视觉研究的各种神经网络的多种框架实现！！！](https://github.com/osmr/imgclsmob)
+- [GAN的框架实现](https://github.com/unicredit/ganzo)
+- [PyTorch用于计算机视觉任务的模板：适合新手入门！](https://github.com/unicredit/ganzo)
+- [PyTorch image models, scripts, pretrained weights -- (SE)ResNet/ResNeXT, DPN, EfficientNet, MixNet, MobileNet-V3/V2, MNASNet, Single-Path NAS, FBNet, and more](https://github.com/rwightman/pytorch-image-models)
+- [多模态和跨模态检索任务的PyTorch实现](https://github.com/gujiuxiang/Multimodal_Retrieval.pytorch)
+- [全年龄段人脸数据集](https://github.com/JingchunCheng/All-Age-Faces-Dataset)
+- [生成模型Collection of generative models, e.g. GAN, VAE in Pytorch and Tensorflow.](https://github.com/wiseodd/generative-models)
+- [DCGAN的tensorflow实现](https://github.com/carpedm20/DCGAN-tensorflow)
+- [CV_Intervie: 《百面计算机视觉第三版》](https://github.com/zonechen1994/CV_Interview)
+- [mmdetection: OpenMMLab Detection Toolbox and Benchmark](https://github.com/open-mmlab/mmdetection)
+- [vision_transformer](https://github.com/google-research/vision_transformer)
+- [ViT-pytorch](https://github.com/jeonsworld/ViT-pytorch)
+
 
 # 深度学习/机器学习/强化学习
 
@@ -84,43 +128,27 @@
 - [东南大学《知识图谱》研究生课程](https://github.com/npubird/KnowledgeGraphCourse)
 - [使用深度学习方法解析问题 知识图谱存储 查询知识点 基于医疗垂直领域的对话系统](https://github.com/baiyang2464/chatbot-base-on-Knowledge-Graph)
 
+# 计算机基础
 
-# MICCAI,CVPR,ECCV,AAAI,ICCV等会议
-- [MICCAI2019参会笔记](https://github.com/RAY9874/MICCAI2019)
-- [CVPR论文模板](https://github.com/MCG-NKU/CVPR_Template)
-- [CVPR2020开源项目合集]( https://github.com/amusi/CVPR2020-Code )
-- [ICCV 2019 papers/new汇总帖](https://github.com/extreme-assistant/iccv2019)
-- [IJCAI'18论文医学跨模态域适应](https://github.com/carrenD/Medical-Cross-Modality-Domain-Adaptation)
-- [MICCAI2018中的深度学习论文学习](https://github.com/fendaq/aweson-deeplearn-MICCAI2018)
-- [MICCAI2019公开论文与源代码合集](https://github.com/JunMa11/MICCAI2019-OpenSourcePapers)
+- [计算机类常用电子书:Java，Python，Linux，Go，C，C++，数据结构与算法，人工智能，计算机基础，面试，设计模式，数据库，前端等](https://github.com/iamshuaidi/CS-Book)
+- [404 Not Found的知识库：计算机理论基础、计算机技术基础、底层研究、安全技术、安全研究、人工智能、企业安全建设、安全发展、职业规划、综合素质、国内外优秀技术人](https://github.com/404notf0und/Always-Learning)
+- [计算机基础（计算机网络/操作系统/数据库/Git...）面试问题全面总结，包含详细的follow-up question以及答案；全部采用【问题+追问+答案】的形式，即拿即用，直击互联网大厂面试🚀；可用于模拟面试、面试前复习、短期内快速备战面试](https://github.com/wolverinn/Waking-Up)
+- [互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/Google/Facebook/Amazon/eBay的架构](https://github.com/davideuler/architecture.of.internet-product)
+- [计算机基础大合集:为大学生准备的资源](https://github.com/dipakkr/A-to-Z-Resources-for-Students)
+- [各种编程学习资料 Android C C++ DataBase HTML5 JavaWeb ios python uml 人工智能 操作系统 数学 数据结构 程序员需要的技术 程序设计 编译原理 计算机组成与结构 计算机网络 设计模式 软件工程 面试经验](https://github.com/FangWW/Document)
+- [计算机自学方案](https://github.com/ossu/computer-science)
+- [成为软件工程师的计算机学习计划](https://github.com/jwasham/coding-interview-university)
+- [计算机电子书pdf整理](https://github.com/fuhmmin/it-ebooks-cn)
+- [计算机网络，数据结构，C++等学习笔记](https://github.com/arkingc/note)
+
+# Python
+
+- [Python有趣的小例子一网打尽。Python基础、Python坑点、Python字符串和正则、Python绘图、Python日期和文件、Web开发、数据科学、机器学习、深度学习、TensorFlow、Pytorch，一切都是简单易懂的小例子。](https://github.com/jackzhenguo/python-small-examples)
+- [Python cheatsheet常用知识点代码整理](https://github.com/gto76/python-cheatsheet)
+- [从头开始 系统化的 学习如何写Python爬虫。 Python版本 3.6](https://github.com/Ehco1996/Python-crawler)
+- [Python - 100天从新手到大师](https://github.com/jackfrued/Python-100-Days)
 
 
-
-
-# 计算机视觉
-- [Mask-RCNN在Paperdoll数据集上的Keras实现](https://github.com/cad0p/maskrcnn-modanet)
-- [弱监督语义/实例分割论文及代码整理](https://github.com/kevinlee9/Semantic-Segmentation)
-- [跨域适应学习用于语义分割论文实现](https://github.com/mkmenta/domain_adapt_segm)
-- [StyleGAN的PyTorch实现](https://github.com/jacobhallberg/pytorch_stylegan_encoder)
-- [跨模态行人重识别的PyTorch实现](https://github.com/mangye16/Cross-Modal-Re-ID-baseline)
-- [多模态研究论文及相关数据集](https://github.com/Eurus-Holmes/Awesome-Multimodal-Research)
-- [计算机视觉领域实验室、数据库、资源](https://github.com/Sophia-11/Awesome-CV-Resources)
-- [YOLO V3d PyTorch实现](https://github.com/eriklindernoren/PyTorch-YOLOv3)
-- [计算机视觉相关论文整理、记录、分享; 包括图像分类、目标检测、视觉跟踪/目标跟踪、人脸识别/人脸验证、OCR/场景文本检测及识别等领域](https://github.com/yizt/cv-papers)
-- [通过实际案例来学习计算机视觉。](https://github.com/finlay-liu/Learn-CV-The-Hard-Way)
-- [深度学习/计算机视觉工程向笔记](https://github.com/pascal1129/cv_notes)
-- [学习计算机视觉的道路上:Python代码](https://github.com/linyi0604/Computer-Vision)
-- [计算机视觉入门](https://github.com/gyy8426/Computer_Vision_primer)
-- [计算机视觉笔记和总结](https://github.com/AceCoooool/interview-computer-vision)
-- [船长关于机器学习、计算机视觉和工程技术的总结和分享](https://github.com/Captain1986/CaptainBlackboard)
-- [用于计算机视觉研究的各种神经网络的多种框架实现！！！](https://github.com/osmr/imgclsmob)
-- [GAN的框架实现](https://github.com/unicredit/ganzo)
-- [PyTorch用于计算机视觉任务的模板：适合新手入门！](https://github.com/unicredit/ganzo)
-- [PyTorch image models, scripts, pretrained weights -- (SE)ResNet/ResNeXT, DPN, EfficientNet, MixNet, MobileNet-V3/V2, MNASNet, Single-Path NAS, FBNet, and more](https://github.com/rwightman/pytorch-image-models)
-- [多模态和跨模态检索任务的PyTorch实现](https://github.com/gujiuxiang/Multimodal_Retrieval.pytorch)
-- [全年龄段人脸数据集](https://github.com/JingchunCheng/All-Age-Faces-Dataset)
-- [生成模型Collection of generative models, e.g. GAN, VAE in Pytorch and Tensorflow.](https://github.com/wiseodd/generative-models)
-- [DCGAN的tensorflow实现](https://github.com/carpedm20/DCGAN-tensorflow)
 
 # 课程资料
 
@@ -148,6 +176,7 @@
 - [Leetcode C++刷题](https://github.com/arkingc/leetcode)
 - [（用动画的形式呈现解LeetCode题目的思路）](https://github.com/MisterBooo/LeetCodeAnimation)
 - [ leetcode题解，记录自己的leetcode解题之路。](https://github.com/azl397985856/leetcode)
+- [《剑指Offer》面试题: Python实现](https://github.com/JushuangQiao/Python-Offer)
 
 ## 秋招春招面经、岗位等资源整理
 - [2019年算法工程师(人工智能CV方向)面试问题及相关资料](https://github.com/lcylmhlcy/Awesome-algorithm-interview)
