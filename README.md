@@ -1,4 +1,4 @@
-# My-starring-Computer-Vsion-Learner
+# My-starring-Computer-Vision
 分类整理GitHub上我star过的项目
 
 最近一次更新时间：2021年7月12日
@@ -28,7 +28,7 @@
 - [nnUNet](https://github.com/MIC-DKFZ/nnUNet)
 - [PyMIC: A Pytorch-Based Toolkit for Medical Image Computing](https://github.com/HiLab-git/PyMIC)
 - [NiftyNet: a TensorFlow-based open-source convolutional neural networks (CNN) platform for research in medical image analysis and image-guided therapy](https://github.com/NifTK/NiftyNet)
-- 脑动脉瘤相关[DLIA](https://github.com/deepwise-code/DLIA)[DLCA](https://github.com/CTA-detection/DLCA)[GLIA](https://github.com/MeteorsHub/GLIA-Net)[CTAI:基于深度学习的肿瘤辅助诊断系统](https://github.com/xming521/CTAI)
+- 脑动脉瘤相关[DLIA](https://github.com/deepwise-code/DLIA) [DLCA](https://github.com/CTA-detection/DLCA) [GLIA](https://github.com/MeteorsHub/GLIA-Net) [CTAI:基于深度学习的肿瘤辅助诊断系统](https://github.com/xming521/CTAI)
 - [medicaldetectiontoolkit: Medical Vision Object Detection(2D+3D)](https://github.com/MIC-DKFZ/medicaldetectiontoolkit)
 - [voxelmorph](https://github.com/voxelmorph/voxelmorph)
 - [Pytorch Medical Segmentation](https://github.com/MontaEllis/Pytorch-Medical-Segmentation)
